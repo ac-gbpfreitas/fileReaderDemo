@@ -1,0 +1,14 @@
+div{
+	float: left;
+	width: 60%;
+	padding: 3px;
+	margin-left: 10%;
+	/*border: 1px solid rgb(0,0,0);*/
+}
+
+.container-form{
+	margin-bottom: 2%;
+}
+.receipt{
+	margin-bottom: 5%;
+}
